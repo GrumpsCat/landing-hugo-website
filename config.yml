@@ -1,9 +1,6 @@
 baseURL: ""
 title: "Test Site"
-
-module:
-  imports:
-    - path: github.com/adityatelange/hugo-PaperMod
+theme: "PaperMod"
 
 params:
   defaultTheme: dark
